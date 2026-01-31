@@ -1,7 +1,12 @@
 FROM php:5.6-apache
 
-# Instalar dependencias del sistema
-RUN apt-get update && apt-get install -y \
+# Configurar repositorios de archivo de Debian (necesario para PHP 5.6 antiguo)
+RUN sed -i 's/deb.debian.org/archive.debian.org/g' /etc/apt/sources.list \
+    && sed -i 's|security.debian.org|archive.debian.org|g' /etc/apt/sources.list \
+    && sed -i '/stretch-updates/d' /etc/apt/sources.list
+
+# Instalar dependencias del sistema (sin verificación GPG para repositorios archivados)
+RUN apt-get update && apt-get install -y --allow-unauthenticated \
     libpng-dev \
     libjpeg-dev \
     libfreetype6-dev \
