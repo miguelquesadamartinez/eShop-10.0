@@ -1,0 +1,139 @@
+<HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
+<BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="55"><img src="../images/index/arriva.jpg" width="770" height="55"></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/index/d1.001.jpg" width="155" height="20"></td>
+    <td><a href="../main.php"><img src="../images/index/d1.002.jpg" width="100" height="20" border="0"></a></td>
+    <td><a href="index-prods.php"><img src="../images/index/d1.003.jpg" width="105" height="20" border="0"></a></td>
+    <td><a href="paginas-varias/contactar.php"><img src="../images/index/d1.004.jpg" width="208" height="20" border="0"></a></td>
+    <td><a href="http://www.nelosa.net/gueb/paginas/instrucciones/index.php" target="_blank"><img src="../images/index/d1.005.jpg" width="202" height="20" border="0"></a></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="71"><img src="../images/index/abajo.jpg" width="770" height="71"></td>
+  </tr>
+  <tr>
+    <td height="71"><table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" height="26">
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">
+            <div align="center">
+              <table align=center width="700" cellspacing="0" cellpadding="0" border="0" height="72">
+                <tr>
+                  <td height="24">
+                    <div align="center"></div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+    </div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+                    <table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4121 - Vídeo limpiador + test de imagen sonido</font></b><font face='Arial, Helvetica, sans-serif'><br>Limpia , cuida y protege los cabezales del vídeo y recorrido completo de la cinta magnética. La cinta limpiadora NELOSA se ocupa de proteger cuidadosamente los cabezales evitando, con su uso regular, el deterioro de los cabezales.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4121.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4121'>
+<br><p align='center'>11.90 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4122 - C. Limpiadora + liquido VHS</font></b><font face='Arial, Helvetica, sans-serif'><br>Cinta para la limpieza de los cabezales de video, así como el recorrido completo de la cinta. Liquido limpiador no abrasivo que elimina la acumulación de polvo y oxido en los cabezales restaurando la calidad de imagen y sonido.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4122.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4122'>
+<br><p align='center'>10.80 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4129 - Protector mando a distancia grande</font></b><font face='Arial, Helvetica, sans-serif'><br>Protector para el mando a distancia fabricado con material de gran elasticidad, adaptándose a cualquier mando de medidas entre 15-25 cm de alto y 4-6 cm de ancho, protegiendo de roturas y golpes</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4129.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4129'>
+<br><p align='center'>7.60 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4130 - Protector mando a distancia pequeño</font></b><font face='Arial, Helvetica, sans-serif'><br>Protector para el mando a distancia fabricado con material de gran elasticidad, adaptándose a cualquier mando de medidas entre 10-15 cm de alto y 3-4 cm de ancho, protegiendo de roturas y golpes.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4130.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4130'>
+<br><p align='center'>5.40 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4142 - Base de giro basculante TV HI-FI  35 cm.</font></b><font face='Arial, Helvetica, sans-serif'><br>Base de giro de diámetro de gran utilidad para girar todo tipo de televisores, equipos, etc.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4142.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4142'>
+<br><p align='center'>19.45 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>4143 -  Base de giro basculante  TV, HI-FI 25 cm</font></b><font face='Arial, Helvetica, sans-serif'><br>Base de giro de diámetro de gran utilidad para girar todo tipo de televisores, equipos, etc.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/4143.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='4143'>
+<br><p align='center'>14.00 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+                  </div></td>
+                </tr>
+              </table>
+              <p align="right"><a href="index-prods.php"><img src="../images/_Back.jpg" width="67" height="35" name="backy" border="0"></a></p>
+          </div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY></HTML>

@@ -1,0 +1,214 @@
+<HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
+<BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="55"><img src="../images/index/arriva.jpg" width="770" height="55"></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/index/d1.001.jpg" width="155" height="20"></td>
+    <td><a href="../main.php"><img src="../images/index/d1.002.jpg" width="100" height="20" border="0"></a></td>
+    <td><a href="index-prods.php"><img src="../images/index/d1.003.jpg" width="105" height="20" border="0"></a></td>
+    <td><a href="paginas-varias/contactar.php"><img src="../images/index/d1.004.jpg" width="208" height="20" border="0"></a></td>
+    <td><a href="http://www.nelosa.net/gueb/paginas/instrucciones/index.php" target="_blank"><img src="../images/index/d1.005.jpg" width="202" height="20" border="0"></a></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="71"><img src="../images/index/abajo.jpg" width="770" height="71"></td>
+  </tr>
+  <tr>
+    <td height="71"><table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" height="26">
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">
+            <div align="center">
+              <table align=center width="700" cellspacing="0" cellpadding="0" border="0" height="72">
+                <tr>
+                  <td height="24">
+                    <div align="center"></div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+    </div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+                    <table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0120 -  Limpiador lente laser en seco</font></b><font face='Arial, Helvetica, sans-serif'><br>Nelosa ha fabricado el limpiador de la lente láser del C.D. Para que, sin riesgo alguno, pueda eliminar el polvo y la suciedad acumulado en la óptica láser del aparato. El C.D. limpiador NELOSA, elimina el polvo acumulado en la lente a través de un micro pincel siendo de gran utilidad para equipos de hi-fi , portátiles, coche o C.D.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0120.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0120'>
+<br><p align='center'>11.73 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0122 - Compacto limpiador lente láser</font></b><font face='Arial, Helvetica, sans-serif'><br>Conjunto limpieza lente. El C.D. Lleva incorporado un micro pincel para la limpieza de la lente óptica del aparato reproductor de C.D. Líquido limpiador no abrasivo que elimina y disuelve la suciedad acumulada en la lente. Depositar el líquido en el pincel del disco limpiador se adjunta también un cepillo de piel natural para la limpieza de los discos compactos.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0122.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0122'>
+<br><p align='center'>13.40 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0127 - Archivo 24 C.D.´s</font></b><font face='Arial, Helvetica, sans-serif'><br>Ingenioso, efectivo y económico álbum para guardar ordenadamente 24 C.D.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0127.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0127'>
+<br><p align='center'>5.75 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0128 - Archivo 48 C.D.´s</font></b><font face='Arial, Helvetica, sans-serif'><br>Ingenioso, efectivo y económico álbum para guardar ordenadamente 48 C.D.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0128.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0128'>
+<br><p align='center'>7.30 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0129 - DIS-MAN-PLUS</font></b><font face='Arial, Helvetica, sans-serif'><br>Funda protectora de loneta acolchada , para transportar y proteger el aparato reproductor portátil y 12 discos compactos. Se puede sujetar al cinturón o cogido por el asa. Fabricado con materiales de máxima calidad. Lavable e impermeable</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0129.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0129'>
+<br><p align='center'>14.49 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0131 -  Funda Nylon 12 C.D. -C.D-ROM</font></b><font face='Arial, Helvetica, sans-serif'><br>Funda protectora de loneta acolchada, para transportar y proteger 12 C.D.´s se puede sujetar al cinturón o cogido por el asa. Fabricado con materiales de máxima calidad.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0131.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0131'>
+<br><p align='center'>10.01 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0132 -  Funda Nylon 24 C.D. . C.D-ROM</font></b><font face='Arial, Helvetica, sans-serif'><br>Funda protectora de loneta acolchada, para transportar y proteger 24 C.D.´s se puede sujetar al cinturón o cogido por el asa. Fabricado con materiales de máxima calidad.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0132.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0132'>
+<br><p align='center'>12.65 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>0133 -  Funda Nylon 48 C.D.  C.D.-ROM</font></b><font face='Arial, Helvetica, sans-serif'><br>Funda protectora de loneta acolchada, para transportar y proteger 24 C.D.´s se puede sujetar al cinturón o cogido por el asa. Fabricado con materiales de máxima calidad.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/0133.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='0133'>
+<br><p align='center'>16.33 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>1145 - Limpiador profesional lente láser</font></b><font face='Arial, Helvetica, sans-serif'><br>Limpieza de la lente láser y 18 controles para analizar el sonido con calidad de estudio. Diagnostico sonido estereo y dolby pro-logic cada uno de los test le ayudara a mejorar el sonido de su equipo.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/1145.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='1145'>
+<br><p align='center'>12.65 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>1155 - D.V.D. Limpiador lente láser</font></b><font face='Arial, Helvetica, sans-serif'><br>Nelosa ha fabricado el limpiador de la lente láser del D.V.D. Para que, sin riesgo alguno, pueda eliminar el polvo y la suciedad acumulado en la óptica láser del aparato. El D.V.D. Limpiador Nelosa, elimina el polvo acumulado en la lente a través de un micro pincel siendo de gran utilidad para equipos portátiles, casa u ordenador.</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/1155.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='1155'>
+<br><p align='center'>12.65 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3120 - C.D. Limpiador interactivo</font></b><font face='Arial, Helvetica, sans-serif'><br>Nelosa ha fabricado el limpiador de lente láser interactivo para que sin riesgo alguno, pueda eliminar el polvo y la suciedad acumulado en la óptica láser de aparato de C.D. El limpiador NELOSA, elimina el polvo acumulado en la lente a través de un micro pincel siendo de gran utilidad para equipos de C.D.-ROM</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3120.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3120'>
+<br><p align='center'>11.62 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+                  </div></td>
+                </tr>
+              </table>
+              <p align="right"><a href="index-prods.php"><img src="../images/_Back.jpg" width="67" height="35" name="backy" border="0"></a></p>
+          </div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY></HTML>

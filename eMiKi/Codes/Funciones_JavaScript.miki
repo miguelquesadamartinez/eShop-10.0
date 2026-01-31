@@ -1,0 +1,9 @@
+<script language="JavaScript">
+function backyF ()
+{
+	history.back(1);
+}
+function AbrirVentana(url) {
+	var hWnd = window.open(url,"ayuda","width=350,height=400,resizable=no,scrollbars=yes");
+}
+</script>

@@ -1,0 +1,355 @@
+<HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
+<BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="55"><img src="../images/index/arriva.jpg" width="770" height="55"></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/index/d1.001.jpg" width="155" height="20"></td>
+    <td><a href="../main.php"><img src="../images/index/d1.002.jpg" width="100" height="20" border="0"></a></td>
+    <td><a href="index-prods.php"><img src="../images/index/d1.003.jpg" width="105" height="20" border="0"></a></td>
+    <td><a href="paginas-varias/contactar.php"><img src="../images/index/d1.004.jpg" width="208" height="20" border="0"></a></td>
+    <td><a href="http://www.nelosa.net/gueb/paginas/instrucciones/index.php" target="_blank"><img src="../images/index/d1.005.jpg" width="202" height="20" border="0"></a></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="71"><img src="../images/index/abajo.jpg" width="770" height="71"></td>
+  </tr>
+  <tr>
+    <td height="71"><table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" height="26">
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">
+            <div align="center">
+              <table align=center width="700" cellspacing="0" cellpadding="0" border="0" height="72">
+                <tr>
+                  <td height="24">
+                    <div align="center"></div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+    </div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+                    <table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3401 - Kit Toner <B>Amarillo </B> universal  - Recarga de gran capacidad Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3401.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3401'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3402 - Kit Toner Magenta universal  - Recarga de gran capacidad Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3402.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3402'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3403 - Kit Toner Cyan universal  - Recarga de gran capacidad Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3403.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3403'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3404 - Kit Toner Negro universal  - Recarga de gran capacidad Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3404.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3404'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3405 - Kit Toner Amarillo universal  - Recarga de gran capacidad HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3405.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3405'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3406 - Kit Toner Magenta universal  - Recarga de gran capacidad HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3406.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3406'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3407 - Kit Toner Cyan universal  - Recarga de gran capacidad HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3407.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3407'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3408 - Kit Toner Negro universal  - Recarga de gran capacidad HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3408.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3408'>
+<br><p align='center'>45.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3409 - Toner Amarillo universal  Quimico 1  recarga  Brother - Epson - Xerox - Sharp - Oki  - Apple - Olivetti - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3409.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3409'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3410 - Toner Magenta universal  1 recarga de 125 gr. Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3410.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3410'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3411 - Toner Cyan universal  1 recarga de 125 gr. Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3411.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3411'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3412 - Toner Negro universal  1 recarga de 125 gr. Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3412.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3412'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3413 - Toner Amarillo universal  1 recarga de 125 gr. HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3413.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3413'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3414 - Toner Magenta universal  1 recarga de 125 gr. HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3414.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3414'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3415 - Toner Cyan universal  1 recarga de 125 gr. HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3415.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3415'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3416 - Toner Negro universal  1 recarga de 125 gr. HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3416.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3416'>
+<br><p align='center'>22.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3417 - Kit Toner Quimico universal Cyan - Magenta - Yellow Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3417.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3417'>
+<br><p align='center'>68.31 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3418 - Kit Toner Quimico universal Cyan - Magenta - Yellow HP - Canon - Lexmark - IBM - y otra</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3418.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3418'>
+<br><p align='center'>68.31 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3419 - 5 Recargas Toner Quimico universal Color y toner Negro Especial Color Brother - Epson - Xerox - Sharp - Oki  - Samsung</font></b><font face='Arial, Helvetica, sans-serif'><br>Brother - Epson - Xerox - Sharp - Oki  - Samsung</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3419.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3419'>
+<br><p align='center'>91.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3420 - 5 Recargas Toner Quimico universal Color y toner Negro Especial Color HP - Canon - Lexmark - IBM - y otras</font></b><font face='Arial, Helvetica, sans-serif'><br>HP - Canon - Lexmark - IBM - y otras
+
+Contenu
+2 sachets de Noir
+1 sachet de Cyan
+1 sachet de Magenta
+1 sachet de Jaune</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3420.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3420'>
+<br><p align='center'>91.77 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+                  </div></td>
+                </tr>
+              </table>
+              <p align="right"><a href="index-prods.php"><img src="../images/_Back.jpg" width="67" height="35" name="backy" border="0"></a></p>
+          </div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY></HTML>

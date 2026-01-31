@@ -1,0 +1,103 @@
+<HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
+<BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="55"><img src="../images/index/arriva.jpg" width="770" height="55"></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="../images/index/d1.001.jpg" width="155" height="20"></td>
+    <td><a href="../main.php"><img src="../images/index/d1.002.jpg" width="100" height="20" border="0"></a></td>
+    <td><a href="index-prods.php"><img src="../images/index/d1.003.jpg" width="105" height="20" border="0"></a></td>
+    <td><a href="paginas-varias/contactar.php"><img src="../images/index/d1.004.jpg" width="208" height="20" border="0"></a></td>
+    <td><a href="http://www.nelosa.net/gueb/paginas/instrucciones/index.php" target="_blank"><img src="../images/index/d1.005.jpg" width="202" height="20" border="0"></a></td>
+  </tr>
+</table>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="71"><img src="../images/index/abajo.jpg" width="770" height="71"></td>
+  </tr>
+  <tr>
+    <td height="71"><table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" height="26">
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">
+            <div align="center">
+              <table align=center width="700" cellspacing="0" cellpadding="0" border="0" height="72">
+                <tr>
+                  <td height="24">
+                    <div align="center"></div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+    </div></td>
+                </tr>
+                <tr>
+                  <td height="24"><div align="center">
+                    <table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3220 - Reseteador universal Chip Epson + Recarga Universal Ink-Jet Negro</font></b><font face='Arial, Helvetica, sans-serif'><br></font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3220.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3220'>
+<br><p align='center'>35.65 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3224 - Reseteador universal Chip Epson</font></b><font face='Arial, Helvetica, sans-serif'><br>- Identificaci&oacute;n autom&aacute;tica del modelo de cartucho.<br>
+- Duraci&oacute;n ilimitada, bater&iacute;as reemplazables.<br>
+- Activaci&oacute;n luz verde indicando cuando el chip est&aacute; reseteado.<br>
+- Duraci&oacute;n reseteado: 4 Segundos.<br>
+- Sin quitar el chip del cartucho.
+<p>Los siguientes cartuchos pueden ser reseteados</p>
+<p>T007, T008, T009, T015, T016, T017, T018, T026, T027, T028, T029, T036, T037, T038, T039, T0321, T0322, T0323, T0324, T0331, T0332, T0333, T0334, T0335, T0336, T0341, T0342, T0343, T0344, T0345, T0346, T0347, T0348, T0421, T0422, T0423, T0424, etc.</p>
+<p>Las siguientes impresoras pueden ser reseteados:</p>
+<p>Epson Stylus Photo 780, 785EPX, 790, 810, 820, 830, 870, 870LE, 875DC, 875DCS, 890, 895, 950, 1270, 1280, 1290, 2000P, 2100, 2200. Stylus C41, C42, C50, C60, C61, C62, C70, C80, C82. Stylus Color 680, 777, 777i, etc.</p>
+</font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3224.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3224'>
+<br><p align='center'>22.94 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+<table width='750'  border='0' cellspacing='0' cellpadding='0' align='center' bordercolor='#9999FF' font face='Arial, Helvetica, sans-serif'>
+<tr><td>
+<table width='95%' border=1 align='center'>
+<tr>
+<TD height=175 align='left' width='55%'><b><font face='Arial, Helvetica, sans-serif'>3240 - Epson chip resetter Gran formato</font></b><font face='Arial, Helvetica, sans-serif'><br></font>
+<TD align='center' width='25%'> <IMG SRC='../images/productos/3240.jpg' >
+<TD align='center' width='20%'>
+<form action='index-prods.php' align='center'>
+<input type=hidden name='item' align='center' value='3240'>
+<br><p align='center'>63.25 €  <input type='text' name='cantidad' align='center' size='3'>  Und.<BR><input type='submit' value='Comprar' align='center' name='submit' size='3'>
+</p>
+</form>
+</td></tr>
+</table>
+</td></tr></table>
+                  </div></td>
+                </tr>
+              </table>
+              <p align="right"><a href="index-prods.php"><img src="../images/_Back.jpg" width="67" height="35" name="backy" border="0"></a></p>
+          </div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF" height="13">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY></HTML>
