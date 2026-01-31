@@ -38,6 +38,37 @@ Desarrollé este sistema cuando trabajaba con mi padre en el negocio familiar. E
 - **JavaScript**: Validaciones del lado del cliente
 - **Codificación**: ISO-8859-1 (charset español)
 
+#### Entorno de Desarrollo con Docker 🐳
+
+Para facilitar el desarrollo y testing de este proyecto legacy, se proporciona una configuración Docker completa que replica el entorno original:
+
+- **PHP 5.6** con Apache y extensiones necesarias (mysqli, pdo_mysql, gd, zip)
+- **MySQL 5.7** con autenticación nativa compatible
+- **phpMyAdmin 5.1** para gestión visual de la base de datos
+
+**Comandos principales:**
+
+```bash
+# Iniciar el entorno completo
+docker-compose up -d
+
+# Ver logs de todos los servicios
+docker-compose logs -f
+
+# Detener los contenedores
+docker-compose down
+
+# Reconstruir desde cero
+docker-compose build --no-cache
+```
+
+**URLs de acceso:**
+- Aplicación: http://localhost:8080
+- phpMyAdmin: http://localhost:8081 (usuario: root, password: root)
+- MySQL: localhost:3306
+
+📖 **Documentación completa:** Ver [DOCKER.md](DOCKER.md) para guía detallada, troubleshooting y configuración avanzada.
+
 ### Características Técnicas
 
 #### Arquitectura del Sistema
