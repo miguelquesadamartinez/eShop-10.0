@@ -8,7 +8,7 @@ services:
       dockerfile: Dockerfile
     container_name: eshop-web
     ports:
-      - "8080:80"
+      - "8084:80"
     volumes:
       - .:/var/www/html
     environment:
@@ -43,7 +43,7 @@ services:
     image: phpmyadmin/phpmyadmin:5.1
     container_name: eshop-phpmyadmin
     ports:
-      - "8081:80"
+      - "8085:80"
     environment:
       PMA_HOST: db
       PMA_PORT: 3306
