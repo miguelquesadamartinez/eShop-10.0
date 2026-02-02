@@ -4,7 +4,7 @@ include("../eMiKi/Funciones_PHP.php");
 
 if ($usr == "")
 {
-	$var = $_COOKIE["recargas"];
+	$var = isset($_COOKIE["recargas"]) ? $_COOKIE["recargas"] : "";
 	if ($var <> "") { $usr = $var; }
 }
 
@@ -109,10 +109,10 @@ if (isset($itemsEnCesta))
 }
 //total pedido menos dto
 $totPed = $tot_price - $dety ;
-//Añado IVA
+//Aï¿½ado IVA
 $totPed = $totPed + ( $totPed * 16 / 100 ) ;
 $totPed = round ($totPed,+2);
-//Añado gastos envio
+//Aï¿½ado gastos envio
 $totPed = $gEnvio + $totPed ;
 
 ?>

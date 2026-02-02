@@ -1,4 +1,7 @@
 <?php 
+// Cargar polyfill para funciones de sesión deprecadas en PHP 5.4+
+require_once(__DIR__ . '/session_compat.php');
+
 session_register('itemsEnCesta');
 session_register('tot_price');
 session_register('totPed');
