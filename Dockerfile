@@ -20,6 +20,7 @@ RUN docker-php-ext-configure gd \
 # Instalar extensiones de PHP
 RUN docker-php-ext-install -j$(nproc) \
     gd \
+    mysql \
     mysqli \
     pdo \
     pdo_mysql
