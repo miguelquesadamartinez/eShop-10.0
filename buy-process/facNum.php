@@ -1,8 +1,8 @@
 <?php 
 //include("../eMiKi/Codes/vblesession.php");
 //include("../eMiKi/Funciones_PHP.php");
-	$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-	mysql_select_db("nelosa_nelosa",$link);
+	$link=mysql_connect("db","eshop_user","eshop_pass");
+	mysql_select_db("eshop_db",$link);
 // Obtenemos la ultima referencia 
 $result=mysql_query("Select max(last) From lasty_nelosa",$link);
 $row = mysql_fetch_array($result);

@@ -81,8 +81,8 @@ $chivato="0";
 		$textoMail = $textoMail . "Comentario :" . $t11 . "\n\n";
 	
 
-	$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-	mysql_select_db("nelosa_nelosa",$link);
+	$link=mysql_connect("db","eshop_user","eshop_pass");
+	mysql_select_db("eshop_db",$link);
 	
 		// Sql consulta ultimo numero de pedido
 		$result=mysql_query("Select max(ID_Pedido) From Cart_DB_Pedidos",$link);

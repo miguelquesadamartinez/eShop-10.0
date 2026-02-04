@@ -4,8 +4,8 @@ session_register('Using_DB');
 ?>
 <html><head><title>Delete_2</title></head>
 <?php
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
 
 ?>
 <body bgcolor="#FFFFFF" text="#000000">

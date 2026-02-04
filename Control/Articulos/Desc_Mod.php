@@ -1,8 +1,8 @@
 <?php 
 session_name ('miki');
 session_register('Using_DB'); 
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
 ?>
 <html><head><title>Articulo</title></head>
 <body bgcolor="#FFFFFF" text="#000000">

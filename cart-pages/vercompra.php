@@ -119,8 +119,8 @@ if (isset($itemsEnCesta))
 	   }
    
 //echo ( "<BR>select * from prods Where Ref ='" . $k . "'<BR>" );
-	$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-	mysql_select_db("nelosa_nelosa",$link);
+	$link=mysql_connect("db","eshop_user","eshop_pass");
+	mysql_select_db("eshop_db",$link);
    
     $result=mysql_query("select * from prods Where Ref = '" . $k . "'",$link); 
 	$row = mysql_fetch_array($result);

@@ -1,8 +1,8 @@
 <?php 
 session_name ('miki');
 session_register('Using_DB'); 
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
 if ($select<>"")$Using_DB=$select ;
 ?>
 <html><head><title>Articulos</title></head>

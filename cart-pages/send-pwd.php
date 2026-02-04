@@ -3,8 +3,8 @@ include("../../eMiKi/Codes/vblesession.php");
 include("../../eMiKi/Funciones_PHP.php");
 
 include("../images/productos/Funciones_PHP.miki");
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
 
 $result=mysql_query("Select otro From Datas Where mail = '". $emilio ."'" ,$link); 
 		  

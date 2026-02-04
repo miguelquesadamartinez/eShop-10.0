@@ -7,8 +7,8 @@ if ($text1 <> ""){
 	$t1=$text1;$t2=$text2;$t3=$text3;$t4=$text4;$t5=$text5;$t6=$text6;$t7=$text7;$t8=$text8;$t9=$text9;$t10=$text10;$t11=$textarea;
 	$tpais=$pais;$usr=$text0;
 }
-	$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-	mysql_select_db("nelosa_nelosa",$link);
+	$link=mysql_connect("db","eshop_user","eshop_pass");
+	mysql_select_db("eshop_db",$link);
 
 // Si no existe el usuario lo creamos
  

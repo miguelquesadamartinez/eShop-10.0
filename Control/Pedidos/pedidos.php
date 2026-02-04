@@ -1,11 +1,11 @@
 <html><head><title>Pedidos</title></head>
 <?php
 include("../../images/productos/Funciones_PHP.miki");
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
-$b_link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
+$b_link=mysql_connect("db","eshop_user","eshop_pass") ;
 mysql_select_db("nelosa_net",$b_link) ;
-$c_link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
+$c_link=mysql_connect("db","eshop_user","eshop_pass") ;
 mysql_select_db("nelosa_net",$c_link) ;
 
 ?>

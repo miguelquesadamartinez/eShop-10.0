@@ -1,11 +1,11 @@
 <html><head><title>Clientes</title></head>
 <?
 include("../../images/productos/Funciones_PHP.miki");
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
-$link_2=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link_2) ;
-$link_3=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
+$link_2=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link_2) ;
+$link_3=mysql_connect("db","eshop_user","eshop_pass") ;
 mysql_select_db("nelosa_net",$link_3) ;
 ?>
 <body bgcolor="#FFFFFF" text="#000000">

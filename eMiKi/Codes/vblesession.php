@@ -1,4 +1,7 @@
 <?php 
+// Suprimir warnings de funciones deprecated de MySQL (código legacy PHP 5.6)
+error_reporting(E_ALL & ~E_DEPRECATED & ~E_STRICT);
+
 // Cargar polyfill para funciones de sesión deprecadas en PHP 5.4+
 require_once(__DIR__ . '/session_compat.php');
 

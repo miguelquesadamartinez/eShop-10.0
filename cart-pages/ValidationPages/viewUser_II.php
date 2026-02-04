@@ -6,8 +6,8 @@ include("../../eMiKi/Funciones_PHP.php");
 <html><head><title>Validacion y creacion de usuarios</title>
 <?php include ("../../eMiKi/Headers/Styles/Style_001.htm") ; ?>
 <?php 
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
  
 $result=mysql_query("UPDATE Clientes SET Nombre='" . $text1 . "',Apellido1='" . $text2 . "',Telefono='" . $text3 . "',Apellido2='" . $text4 .
  "',Doc='" . $text5 . "',Empresa='" . $text6 . "',Direccion='" . $text7 . "',Provincia='" . $country . "',Poblacion='" . $text9 . "',Pais='" . $tpais .

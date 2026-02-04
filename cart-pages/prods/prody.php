@@ -2,8 +2,8 @@
 include("../../eMiKi/Codes/vblesession.php");
 include("../../eMiKi/Funciones_PHP.php");
 
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-mysql_select_db("nelosa_nelosa",$link);
+$link=mysql_connect("db","eshop_user","eshop_pass");
+mysql_select_db("eshop_db",$link);
 ?>
 <HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
 <BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">

@@ -5,10 +5,10 @@ session_register('Using_DB');
 ?>
 <html><head><title>Alta_2</title></head>
 <?php
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link) ;
-$link_2=mysql_connect("localhost","nelosa_nelosa","mqm1804") ;
-mysql_select_db("nelosa_nelosa",$link_2) ;
+$link=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link) ;
+$link_2=mysql_connect("db","eshop_user","eshop_pass") ;
+mysql_select_db("eshop_db",$link_2) ;
 
 ?>
 <body bgcolor="#FFFFFF" text="#000000">

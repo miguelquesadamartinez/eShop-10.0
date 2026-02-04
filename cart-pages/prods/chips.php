@@ -42,13 +42,13 @@ include("../../eMiKi/Funciones_PHP.php");
 $str1="imagesProds/";
 $str2=".jpg";
 
-   	$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-	mysql_select_db("nelosa_nelosa",$link);
+   	$link=mysql_connect("db","eshop_user","eshop_pass");
+	mysql_select_db("eshop_db",$link);
 
 
 	$result=mysql_query("select * from prods Where Grupo='31'",$link); 
 
-if (!($otrolink=mysql_connect("localhost","nelosa_nelosa","mqm1804")))    { 
+if (!($otrolink=mysql_connect("db","eshop_user","eshop_pass")))    { 
       echo "Error conectando a la base de datos."; 
       exit(); 
    } 
