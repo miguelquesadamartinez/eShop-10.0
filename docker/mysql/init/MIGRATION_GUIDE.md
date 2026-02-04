@@ -1,8 +1,60 @@
-# 🔧 Guía de Migración de Configuración
+# 🔧 Guía de Migración de Base de Datos - eShop Legacy
 
-## Cambios Necesarios en el Código PHP
+## 📋 Resumen de Migraciones
 
-Después de aplicar el schema de base de datos, necesitas actualizar las referencias a la base de datos antigua en el código PHP.
+Este proyecto incluye 2 archivos de migración SQL que deben ejecutarse en orden:
+
+1. **01-init.sql** - Estructura de base de datos (13 tablas)
+2. **02-sample-products.sql** - Catálogo de 50 productos de ejemplo
+
+**Total productos después de migración:** 58 productos  
+**Categorías cubiertas:** 6 grupos (Ink-Jet, Laser B/N, Laser Color, Accesorios, Etiquetas, Deluxe)
+
+---
+
+## 🚀 Ejecución Rápida
+
+### Opción 1: Ejecución Automática (Recomendado)
+
+Las migraciones se ejecutan automáticamente al crear los contenedores por primera vez:
+
+```bash
+# Detener y eliminar contenedores existentes
+docker-compose down -v
+
+# Iniciar contenedores (ejecuta migraciones automáticamente)
+docker-compose up -d
+
+# Verificar que se crearon las tablas
+docker-compose exec db mysql -uroot -proot eshop_db -e "SHOW TABLES;"
+
+# Verificar productos insertados
+docker-compose exec db mysql -uroot -proot eshop_db -e "SELECT COUNT(*) as Total_Productos FROM prods;"
+```
+
+### Opción 2: Ejecución Manual
+
+Si los contenedores ya existen y necesitas ejecutar las migraciones:
+
+**PowerShell:**
+
+```powershell
+# Ejecutar schema inicial
+Get-Content docker\mysql\init\01-init.sql | docker-compose exec -T db mysql -uroot -proot
+
+# Ejecutar catálogo de productos
+Get-Content docker\mysql\init\02-sample-products.sql | docker-compose exec -T db mysql -uroot -proot
+```
+
+**Bash (Linux/Mac):**
+
+```bash
+# Ejecutar schema inicial
+cat docker/mysql/init/01-init.sql | docker-compose exec -T db mysql -uroot -proot
+
+# Ejecutar catálogo de productos
+cat docker/mysql/init/02-sample-products.sql | docker-compose exec -T db mysql -uroot -proot
+```
 
 ---
 

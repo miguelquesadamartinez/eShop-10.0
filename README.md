@@ -63,6 +63,7 @@ docker-compose build --no-cache
 ```
 
 **URLs de acceso:**
+
 - Aplicación: http://localhost:8080
 - phpMyAdmin: http://localhost:8081 (usuario: root, password: root)
 - MySQL: localhost:3306
@@ -221,13 +222,19 @@ session_register('numeroPedido');     // ID del pedido actual
 
 #### Base de Datos
 
-**Conexión MySQL Legacy:**
+**Conexión MySQL Legacy (actualizada para Docker):**
 
 ```php
 // Función de conexión en Funciones_PHP.php
 function conectarse() {
-    $link = mysql_connect("localhost", "nelosa_nelosa", "mqm1804");
-    mysql_select_db("nelosa_nelosa", $link);
+    // Configuración actualizada para Docker
+    $host = getenv('DB_HOST') ?: 'db';
+    $user = getenv('DB_USER') ?: 'eshop_user';
+    $pass = getenv('DB_PASS') ?: 'eshop_pass';
+    $dbname = getenv('DB_NAME') ?: 'eshop_db';
+
+    $link = mysql_connect($host, $user, $pass);
+    mysql_select_db($dbname, $link);
     return $link;
 }
 
@@ -236,29 +243,64 @@ include("eMiKi/Funciones_PHP.php");
 $link = conectarse();
 ```
 
-**Tablas Principales:**
+**📊 Estructura de Base de Datos:**
 
-- **`Datas`** - Información de usuarios y autenticación
-  - Campos: mail (email/username), otro (password en texto plano)
-  - Uso: Login y validación de usuarios
-- **`Clientes`** - Datos completos de clientes
-  - Información personal, direcciones, teléfonos
-  - Sincronizada con tabla Datas
-- **`Cart_DB_Pedidos`** - Registro de pedidos
-  - Número de pedido, fecha, cliente, items, totales
-  - Estado del pedido, forma de pago
-- **`prods`** - Catálogo de productos
-  - Código, descripción, precio, stock
-  - Imágenes, categoría, disponibilidad
-- **`lasty`** - Control de numeración de pedidos
-  - Último número de pedido generado
-  - Incremento automático por transacción
+El proyecto cuenta con **13 tablas** organizadas en 4 categorías funcionales:
+
+**Autenticación y Usuarios:**
+
+- **`Datas`** - Credenciales de acceso (email, contraseña)
+- **`Clientes`** - Información completa de clientes (nombre, dirección, teléfono)
+
+**Catálogo de Productos:**
+
+- **`prods`** - Catálogo completo con **58 productos** en 6 categorías:
+  - **Grupo 1:** Ink-Jet (19 productos) - Kits recarga, tintas individuales
+  - **Grupo 2:** Laser B/N (5 productos) - Toners HP, Canon, Brother, Samsung, Epson
+  - **Grupo 3:** Laser Color (10 productos) - Toners CMYK individuales y kits completos
+  - **Grupo 9:** Accesorios (7 productos) - Jeringuillas, chip resetters, herramientas
+  - **Grupo 10:** Etiquetas CD/DVD (5 productos) - Etiquetas laser e inkjet
+  - **Grupo 11:** Kits Deluxe (9 productos) - Kits premium por marca
+
+**Gestión de Pedidos:**
+
+- **`Cart_DB_Pedidos`** - Cabecera de pedidos (número, fecha, cliente, total)
+- **`Cart_DB_L_Pedido`** - Líneas de detalle de pedidos (productos, cantidades, precios)
+- **`Cart_DB_Pedidos_TMP`** - Pedidos temporales durante el proceso de compra
+- **`Cart_DB_L_Pedido_TMP`** - Líneas temporales de pedidos
+
+**Control y Administración:**
+
+- **`lasty`** - Secuencia de numeración de pedidos (tabla activa)
+- **`lasty_nelosa`** - Secuencia legacy de numeración
+- **`tempDB`** - Almacenamiento temporal de datos
+- **`vales_usados`** - Registro de cupones y vales aplicados
+- **`Descs_esp`** - Descuentos especiales configurables
+- **`AllProdsB_Control`** - Control y seguimiento de productos
+
+**📁 Archivos de Migración:**
+
+Los scripts SQL están en `docker/mysql/init/`:
+
+1. **`01-init.sql`** - Crea las 13 tablas y datos iniciales
+   - Usuario de prueba: `test@example.com` / `test123`
+   - 4 productos genéricos iniciales
+
+2. **`02-sample-products.sql`** - Inserta catálogo completo de 50 productos
+   - Referencias: 3197-3236, 3301-3308, 3405-3420, 8005-8017
+   - Precios desde 1.50€ hasta 89.00€
+   - Códigos descriptivos y nombres en español
+
+**Documentación completa:**
+
+- 📖 [DATABASE_SCHEMA.md](docker/mysql/init/DATABASE_SCHEMA.md) - Descripción detallada de cada tabla
+- 📖 [docker/mysql/README.md](docker/mysql/README.md) - Guía de migraciones y backups
 
 **Operaciones Principales:**
 
 ```php
-// Consulta de productos
-$sql = "SELECT * FROM prods WHERE categoria='inkjet'";
+// Consulta de productos por categoría
+$sql = "SELECT Ref, Des, precio_eshop FROM prods WHERE Grupo='1'";
 $result = mysql_query($sql, $link);
 
 // Inserción de pedido
@@ -267,7 +309,7 @@ $sql = "INSERT INTO Cart_DB_Pedidos (numero, fecha, cliente, items)
 mysql_query($sql, $link);
 
 // Actualización de numeración
-$sql = "UPDATE lasty SET numero = numero + 1";
+$sql = "UPDATE lasty SET last = last + 1";
 mysql_query($sql, $link);
 ```
 
