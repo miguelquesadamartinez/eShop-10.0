@@ -20,35 +20,39 @@ mysql_select_db("eshop_db",$link) ;
 $tot_price=0;
 $desplazamiento=0;
 
-if ($ref3198)$itemsEnCesta["3198"]=$ref3198;
-if ($ref3236)$itemsEnCesta["3236"]=$ref3236;
-if ($ref3228)$itemsEnCesta["3228"]=$ref3228;
-if ($ref3229)$itemsEnCesta["3229"]=$ref3229;
-if ($ref3230)$itemsEnCesta["3230"]=$ref3230;
-if ($ref3231)$itemsEnCesta["3231"]=$ref3231;
-if ($ref3224)$itemsEnCesta["3224"]=$ref3224;
-if ($ref3301)$itemsEnCesta["3301"]=$ref3301;
-if ($ref3303)$itemsEnCesta["3303"]=$ref3303;
-if ($ref3307)$itemsEnCesta["3307"]=$ref3307;
-if ($ref3308)$itemsEnCesta["3308"]=$ref3308;
-if ($ref3420)$itemsEnCesta["3420"]=$ref3420;
-if ($ref3417)$itemsEnCesta["3417"]=$ref3417;
-if ($ref3409)$itemsEnCesta["3409"]=$ref3409;
-if ($ref3410)$itemsEnCesta["3410"]=$ref3410;
-if ($ref3411)$itemsEnCesta["3411"]=$ref3411;
-if ($ref3412)$itemsEnCesta["3412"]=$ref3412;
-if ($ref3405)$itemsEnCesta["3405"]=$ref3405;
-if ($ref3406)$itemsEnCesta["3406"]=$ref3406;
-if ($ref3407)$itemsEnCesta["3407"]=$ref3407;
-if ($ref3408)$itemsEnCesta["3408"]=$ref3408;
+// ============================================================================
+// IMPORTAR VARIABLES GET/POST (Emular register_globals para código legacy)
+// ============================================================================
+// PHP 5.6 no tiene register_globals, hay que importar manualmente
+$item = isset($_GET['item']) ? $_GET['item'] : (isset($_POST['item']) ? $_POST['item'] : null);
+$cantidad = isset($_GET['cantidad']) ? $_GET['cantidad'] : (isset($_POST['cantidad']) ? $_POST['cantidad'] : 0);
+
+// Importar referencias de productos desde GET/POST para compatibilidad con código legacy
+// Estas variables podrían venir de formularios que actualizan cantidades directamente
+foreach ($_REQUEST as $key => $value) {
+    if (strpos($key, 'ref') === 0) {
+		echo('Var: ' . $key . '<br>');
+        $$key = $value; // Crear variable dinámica: $ref3197 = valor
+    }
+}
+
+echo('Item: ' . $item . '<br>');
+echo('Cantidad: ' . $cantidad . '<br>');
 
 if ($item){ 
 	  // Comprobamos cantidad
 	  if ( $cantidad > 0 && $cantidad < 50 )	  	  {	  		  }
 	  else 	  	  {	  	$cantidad = 0 ;	  }
 	  
-   if (!isset($itemsEnCesta)){ 	  $itemsEnCesta[$item]=$cantidad;	}
-   else{       
+   	   if (!isset($itemsEnCesta)){
+		echo "Creando cesta...<br>";
+		$itemsEnCesta[$item]=$cantidad;	
+	   } else {
+		echo "Actualizando cesta...<br>";
+		$itemsEnCesta[$item]=$cantidad;
+	   }
+   } else {     
+	$encontrado=0;  
    	foreach($itemsEnCesta as $k => $v){ 	  		  	
 		 if ($item==$k)
 		 { 	
@@ -61,10 +65,10 @@ if ($item){
        	if($cantidad)$itemsEnCesta[$item]=$cantidad;
 	  }
    } 
-} // if ($item)
-   if (!isset($itemsEnCesta))
+ // if ($item)
+   if (!isset($itemsEnCesta) || !is_array($itemsEnCesta))
    { 
-      
+      // Carrito vacío, no hay nada que procesar
    }
    else
    {
@@ -97,7 +101,7 @@ elseif ($tot_price>50) $gEnvio=0;
   $dety = round ($dety,+2);
 
 // Por cada elemento de la cesta de la compra, si es una oferta , y es diferente de cero
-if (isset($itemsEnCesta))
+if (isset($itemsEnCesta) && is_array($itemsEnCesta))
 {
 	foreach($itemsEnCesta as $k => $v)
 	{

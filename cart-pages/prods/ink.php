@@ -2,8 +2,7 @@
 include("../../eMiKi/Codes/vblesession.php");
 include("../../eMiKi/Funciones_PHP.php");
 
-$link=mysql_connect("localhost","nelosa_nelosa","mqm1804");
-mysql_select_db("nelosa_nelosa",$link);
+$link = conectarse();
 ?>
 <HTML><HEAD><TITLE>e M i K i</TITLE></HEAD>
 <BODY bgcolor="#FFFFFF" text="#0000FF" link="#0000FF" vlink="#0000FF" alink="#0000FF">
@@ -40,9 +39,10 @@ mysql_select_db("nelosa_nelosa",$link);
                     <tr>
                       <TD height=175 align='left' width='55%'><font size="2" face="Arial, Helvetica, sans-serif"><b>
                         <?php $bar = '3197'?>
-                        <?php 
+                        <?php
 $result=mysql_query("select precio_eshop, Des from prods Where Ref ='" . $bar . "'",$link); 
 $row = mysql_fetch_array($result);
+
 $precio_eshop=(string)$row["precio_eshop"];
 $desc=(string)$row["Des"];
 echo $bar . " - " . $desc ?>
